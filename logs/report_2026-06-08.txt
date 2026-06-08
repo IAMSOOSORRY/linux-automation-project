@@ -1,0 +1,23 @@
+===== SYSTEM REPORT =====
+Date:
+Mon Jun  8 05:49:13 PM IST 2026
+
+CPU Load:
+ 17:49:13 up  7:25,  1 user,  load average: 0.84, 0.65, 0.49
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       3.2Gi       1.6Gi        75Mi       2.8Gi       4.0Gi
+Swap:          3.8Gi       920Ki       3.8Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.5G  3.0M  1.5G   1% /run
+/dev/sda2       147G   15G  125G  11% /
+tmpfs           3.7G   42M  3.6G   2% /dev/shm
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           3.7G   11M  3.6G   1% /tmp
+tmpfs           738M  108K  738M   1% /run/user/1000
+/dev/sr0        110M  110M     0 100% /run/media/ubuntu/CDROM
+/dev/sr1        6.1G  6.1G     0 100% /run/media/ubuntu/Ubuntu 26.04 amd64

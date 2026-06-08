@@ -1,0 +1,3 @@
+git add .
+git commit -m "Week 1 Linux Automation Project"
+git push origin main
